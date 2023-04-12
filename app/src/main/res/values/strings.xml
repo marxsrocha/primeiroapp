@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">primeiroapp</string>
+    <string name="textNome">Seja bem vindo!</string>
+    <string name="editNome">Nome</string>
+    <string name="btnProcessar">Processar!</string>
+
+</resources>
